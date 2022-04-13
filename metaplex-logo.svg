@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="63px" viewBox="0 0 193 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>winto</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="13.1881096%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="290.914687%" gradientTransform="translate(0.000000,0.000000),scale(0.373874,1.000000),rotate(20.314978),translate(-0.000000,-0.000000)" id="radialGradient-2">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Galvji" font-size="70" font-weight="normal">
+        <text id="winto" stroke="url(#radialGradient-2)" stroke-width="5" fill="url(#linearGradient-1)">
+            <tspan x="1.52783203" y="59">winto</tspan>
+        </text>
+    </g>
+</svg>
